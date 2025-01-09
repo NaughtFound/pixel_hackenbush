@@ -14,7 +14,7 @@
 
 This repository contains a simple yet engaging implementation of the [Hackenbush](https://en.wikipedia.org/wiki/Hackenbush) game, built using the Flutter framework and the Flame game engine. It's designed to be both fun and easy to play, leveraging the capabilities of Flutter for cross-platform compatibility and Flame for a smooth gaming experience.
 
-> Access the full report by clicking [Report](https://github.com/mgh5225/pixel_hackenbush/blob/main/report/report.pdf).
+> Access the full report by clicking [Report](https://github.com/NaughtFound/pixel_hackenbush/blob/main/report/report.pdf).
 
 ## Requirements
 
@@ -35,4 +35,4 @@ I would like to extend my heartfelt thanks to [Spellthorn](https://github.com/Sp
 
 ## License
 
-This project uses the following license: [Apache License 2.0](https://github.com/mgh5225/pixel_hackenbush/blob/main/LICENSE)
+This project uses the following license: [Apache License 2.0](https://github.com/NaughtFound/pixel_hackenbush/blob/main/LICENSE)
